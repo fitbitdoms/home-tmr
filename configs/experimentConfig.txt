@@ -1,1 +1,2 @@
-
+https://github.com/fitbitdoms/home-tmr/blob/master/configs/default.txt
+bogo
